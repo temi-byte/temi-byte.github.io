@@ -57,9 +57,9 @@ I’m currently exploring:
 
 I’m always open to conversations around:
 
-- interesting infrastructure problems
-- applied AI systems
-- research collaborations
+- Interesting infrastructure problems
+- Applied AI systems
+- Research collaborations
 
 <br>
 
