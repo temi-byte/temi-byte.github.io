@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpeg">
 
-I’m a software engineer working on AI infrastructure, with a focus on retrieval systems, agent paltforms, distributed services, and making machine learning systems reliable in production.
+I’m a software engineer working on AI infrastructure, with a focus on retrieval systems, agent platforms, distributed services, and making machine learning systems reliable in production.
 
 I am originally from Nigeria 🇳🇬.
   
@@ -33,6 +33,7 @@ My undergraduate reasearch work explored social media and the spread of health (
 <br>
 
 ## Technical Competencies
+
 |  |  |
 |:-----|:------:|
 | AI & Machine Learning |  RAG pipelines, Vector Search, LLM systems |
@@ -60,10 +61,12 @@ I’m always open to conversations around:
 - applied AI systems
 - research collaborations
 
+<br>
+
 ## Hobbies & Other Interests
 Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays. 
 
-I'm also currently in the process of getting my private pilot's license!
+I'm also currently in the process of getting my private pilot's license✈️!
 
 
 <br><br><br>
