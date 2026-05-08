@@ -31,9 +31,8 @@ My undergraduate reasearch work explored social media and the spread of health (
 <br>
 
 ## Technical Competencies
-
 |  |  |
-|:-----|------:|
+|:-----|:------:|
 | AI & Machine Learning |  RAG pipelines, Vector Search, LLM systems |
 | Programming Languages | Python, C/C++, Java, SQL |
 | Infrastructure & Systems | Distributed Systems, Kubernetes, Airflow, Azure, Google Cloud, CI/CD |
@@ -42,13 +41,11 @@ My undergraduate reasearch work explored social media and the spread of health (
 <br>
 
 ## Bibliography
-
 Google Scholar: [google scholar page](https://scholar.google.com/citations?user=-PfWJHYAAAAJ&hl=en&oi=ao)
 
 <br>
 
 ## Hobbies & Other Interests
-
 Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays. 
 
 I'm also currently in the process of getting my private pilot's license!
