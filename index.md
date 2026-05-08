@@ -14,11 +14,13 @@ I am originally from Nigeria 🇳🇬.
   
 My work sits at the intersection of:
 
-- scalable backend systems
+- Scalable backend systems
 - LLM-powered applications (RAG, agents)
-- data access, governance, and observability
+- Data access, governance, and observability
 
 I’m especially interested in how we can make AI systems more useful in real-world workflows and more accessible across languages and contexts.
+
+If you’re working on something interesting or think we should collaborate, feel free to reach out.
 
 <br>
 
@@ -44,6 +46,19 @@ My undergraduate reasearch work explored social media and the spread of health (
 Google Scholar: [google scholar page](https://scholar.google.com/citations?user=-PfWJHYAAAAJ&hl=en&oi=ao)
 
 <br>
+
+## Interests
+I’m currently exploring:
+
+- Better architectures for agent-based systems
+- Improving retrieval quality and evaluation
+- Building AI systems that work well in low-resource environments
+
+I’m always open to conversations around:
+
+- interesting infrastructure problems
+- applied AI systems
+- research collaborations
 
 ## Hobbies & Other Interests
 Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays. 
