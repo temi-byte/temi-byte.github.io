@@ -22,10 +22,6 @@ I’m especially interested in how we can make AI systems more useful in real-wo
 
 <br>
 
-
-
-<br>
-
 ## Education
 
 I hold a B.Sc. degree in Computer Science from Howard University.
@@ -33,7 +29,6 @@ I hold a B.Sc. degree in Computer Science from Howard University.
 My undergraduate reasearch work explored social media and the spread of health (mis)information, and was advised by Dr. Jiang Li.
 
 <br>
-
 
 ## Technical Competencies
 
@@ -46,22 +41,13 @@ My undergraduate reasearch work explored social media and the spread of health (
 
 <br>
 
-
-
-<br>
-
 ## Bibliography
 
 Google Scholar: [google scholar page](https://scholar.google.com/citations?user=-PfWJHYAAAAJ&hl=en&oi=ao)
 
 <br>
 
-
-
-<br>
-
 ## Hobbies & Other Interests
-
 
 Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays. 
 
