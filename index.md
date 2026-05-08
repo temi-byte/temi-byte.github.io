@@ -28,7 +28,7 @@ If you’re working on something interesting or think we should collaborate, fee
 
 I hold a B.Sc. degree in Computer Science from Howard University.
 
-My undergraduate reasearch work explored social media and the spread of health (mis)information, and was advised by Dr. Jiang Li.
+My undergraduate research work explored social media and the spread of health (mis)information, and was advised by Dr. Jiang Li.
 
 <br>
 
