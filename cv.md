@@ -8,7 +8,9 @@ You can download a full copy of my CV [here](http://teimilola.github.io/resource
 <br>
 Take a look at my LinkedIn Profile [here](https://www.linkedin.com/in/temi-oloyede-swe/).
 
-<br><br>
+<br>
+
+---
 
 ## EDUCATION
 
@@ -30,6 +32,8 @@ Redwood City, CA
 September 2023 - Present
 * Working on AI platform systems supporting secure enterprise knowledge workflows, including RAG, agents, indexing, and governance-focused AI features
 
+<br>
+
 ### Facebook
 *Software Engineer, ML*  
 Seattle, WA
@@ -37,6 +41,7 @@ Seattle, WA
 August 2019 - Jan 2023
 * Worked on search ranking and relevance and ML Infrastructure
 
+<br>
 
 ### Facebook
 *Software Engineering Intern*  
@@ -45,6 +50,7 @@ Seattle, WA
 May - August 2018
 * Built memory-efficient data transformation pipeline in C++
 
+<br>
 
 ### Facebook
 *Software Engineering Intern*  
@@ -52,6 +58,8 @@ Cambridge, MA
 <br>
 May - August 2017
 * Implemented client-side place prediction/detection and Visit timeline detection algorithms on Android
+
+<br>
 
 ### Facebook
 *Facebook University Intern*  
@@ -73,6 +81,8 @@ notifications using Android Studio
 Present
 * Contributed to high-quality Named Entity Recognition (NER) datasets for African languages
 
+<br>
+
 ### Howard University CS
 *Undergraduate Researcher*  
 Washington, DC
@@ -80,6 +90,8 @@ Washington, DC
 September 2017 - May 2018
 * Advised by Dr. Li, Dr. Chouikha
 * My research focused on understanding social media and the spread of health data (using automatic text summarization and bot classification/detection)
+
+<br>
 
 ### Howard University CS
 *Undergraduate Research Assistant*  
@@ -108,7 +120,7 @@ August 2016 - December 2016
 
 ### Technical Skills
 
-Python, Java, C++, C, MATLAB, scikit-learn, Tensorflow, NLTK
+Python, Java, C++, RAG, LLM systems
 
 
 ### Languages
