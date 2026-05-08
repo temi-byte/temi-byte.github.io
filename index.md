@@ -61,6 +61,10 @@ I’m always open to conversations around:
 - Applied AI systems
 - Research collaborations
 
+
+I’m also an angel investor, with a focus on supporting African founders in the diaspora and those building on the continent, particularly in AI and emerging technologies.
+If you’re working in this space, I’d love to connect.
+
 <br>
 
 ## Hobbies & Other Interests
