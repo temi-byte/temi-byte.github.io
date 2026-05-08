@@ -8,17 +8,17 @@ layout: default
 
 <img class="profile-picture" src="me.jpeg">
 
-I am currently a mid-level software engineer working on Machine Learning Infra.
+I’m a software engineer working on AI infrastructure, with a focus on retrieval systems, agent paltforms, distributed services, and making machine learning systems reliable in production.
 
 I am originally from Nigeria 🇳🇬.
-
-I have about 3 years of experience as a Software Engineer.  I've worked on <a href="https://atscaleconference.com/videos/ai-scale-2020-f3-next-generation-feature-framework-at-facebook/"> Facebook's Feature Framework (F3)</a>, working on improving ML engineers' ability to innovate, build features and experiment faster.  
   
-I've worked on building ranking and retrieval models to help people discover communities, content and events as an ML Generalist on Facebook Search.
- 
-In another life, I built Android applications as part of internships.
+My work sits at the intersection of:
 
-I am broadly interested in building great ML Infrastructure and accelerating development times of the next big AI wins.
+- scalable backend systems
+- LLM-powered applications (RAG, agents)
+- data access, governance, and observability
+
+I’m especially interested in how we can make AI systems more useful in real-world workflows and more accessible across languages and contexts.
 
 <br>
 
@@ -37,13 +37,22 @@ My undergraduate reasearch work explored social media and the spread of health (
 
 ## Technical Competencies
 
-- Programming Languages: Python, C++, C, Shell Script, SQL
-- Statistical & Optimization Languages:  MATLAB
-- Cloud Platform & Big Data: Apache Open Source Software (Spark, Hadoop, Hive, Thrift etc.), Presto
-- Machine Learning: Statistical Learning, TensorFlow, fblearner(https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/), scikit-learn.
-- Other: Tupperware/Twine - similar to Kubernetes- (https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
+|  |  |
+|:-----|------:|
+| AI & Machine Learning |  RAG pipelines, Vector Search, LLM systems |
+| Programming Languages | Python, C/C++, Java, SQL |
+| Infrastructure & Systems | Distributed Systems, Kubernetes, Airflow, Azure, Google Cloud, CI/CD |
+| Technical Leadership | Technical Design, Cross-functional collaboration, Performance & Capacity analysis |
+
+<br>
 
 
+
+<br>
+
+## Bibliography
+
+Google Scholar: [google scholar page](https://scholar.google.com/citations?user=-PfWJHYAAAAJ&hl=en&oi=ao)
 
 <br>
 
@@ -53,12 +62,10 @@ My undergraduate reasearch work explored social media and the spread of health (
 
 ## Hobbies & Other Interests
 
-I also generally find advances in Natural Language Processing(specifically Commonsense reasoning, Natural Language generation and Narrative understanding)  interesting. I spend some time reading papers, updates in these areas because I think it's really exciting.
 
-Interested in ML Systems in general.
+Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays. 
 
-
-Outside of software engineering, I enjoy watching netflix shows, reading, writing short stories and essays.
+I'm also currently in the process of getting my private pilot's license!
 
 
 <br><br><br>
