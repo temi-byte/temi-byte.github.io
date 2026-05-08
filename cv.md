@@ -30,7 +30,7 @@ August 2015 - May 2019
 Redwood City, CA
 <br>
 September 2023 - Present
-* Working on AI platform systems supporting secure enterprise knowledge workflows, including RAG, agents, indexing, and governance-focused AI features
+* Building AI platform systems supporting secure enterprise knowledge workflows, including RAG, agents, indexing, and governance-focused AI features
 
 <br>
 
@@ -39,7 +39,7 @@ September 2023 - Present
 Seattle, WA
 <br>
 August 2019 - Jan 2023
-* Worked on search ranking and relevance and ML Infrastructure
+* Built ranking, relevance, and ML infrastructure systems for search and recommendation products
 
 <br>
 
@@ -108,7 +108,7 @@ August 2016 - December 2016
 ## VOLUNTEER EXPERIENCE
 
 * 2018-2019 Girls Who Code, Facilitator
-* 2018-2019 Institute of Electrical and Electronics Engineers, Howard Chapter, Volunteer Cordinator
+* 2018-2019 Institute of Electrical and Electronics Engineers, Howard Chapter, Volunteer Coordinator
 * 2016, 2017 Howard University Alternative Spring Break, Volunteer
 * 2016 - 2017 Society of Women Engineers, Howard Chapter, Programs Director
 
@@ -134,7 +134,7 @@ English (native), Yoruba (native), French (beginner)
 ## HONORS & AWARDS
 
 * 2018 Brenda Lawson Scholarship Recipient
-* 2015 Howard Univeristy Capstone Scholarship Recipient
+* 2015 Howard University Capstone Scholarship Recipient
 * 2015 Grief Scholarship Recipient
 
 <br>
