@@ -23,28 +23,39 @@ August 2015 - May 2019
 
 ## INDUSTRY EXPERIENCE
 
-### Facebook
-Software Engineer, ML // Seattle, WA
+### Box
+*Software Engineer, ML*  
+Redwood City, CA
 <br>
-August 2019 - Present
-* Currently working on improving relevance of search results
+September 2023 - Present
+* Working on AI platform systems supporting secure enterprise knowledge workflows, including RAG, agents, indexing, and governance-focused AI features
+
+### Facebook
+*Software Engineer, ML*  
+Seattle, WA
+<br>
+August 2019 - Jan 2023
+* Worked on search ranking and relevance and ML Infrastructure
 
 
 ### Facebook
-Software Engineering Intern // Seattle, WA
+*Software Engineering Intern*  
+Seattle, WA
 <br>
 May - August 2018
 * Built memory-efficient data transformation pipeline in C++
 
 
 ### Facebook
-Software Engineering Intern // Cambridge, MA
+*Software Engineering Intern*  
+Cambridge, MA
 <br>
 May - August 2017
 * Implemented client-side place prediction/detection and Visit timeline detection algorithms on Android
 
 ### Facebook
-Facebook University Intern // Menlo Park, CA
+*Facebook University Intern*  
+Menlo Park, CA
 <br>
 June - August 2016
 * Built an Android application that allows users to create location-based events and receive location-based
@@ -57,15 +68,22 @@ notifications using Android Studio
 
 ## RESEARCH EXPERIENCE
 
+### Masakhane
+*Independent Researcher*  
+Present
+* Contributed to high-quality Named Entity Recognition (NER) datasets for African languages
+
 ### Howard University CS
-Undergraduate Researcher // Washington, DC
+*Undergraduate Researcher*  
+Washington, DC
 <br>
 September 2017 - May 2018
 * Advised by Dr. Li, Dr. Chouikha
 * My research focused on understanding social media and the spread of health data (using automatic text summarization and bot classification/detection)
 
 ### Howard University CS
-Undergraduate Research Assistant // Washington, DC
+*Undergraduate Research Assistant*  
+Washington, DC
 <br>
 August 2016 - December 2016
 * Advised by Dr. Li, Dr. Chouikha
@@ -103,9 +121,9 @@ English (native), Yoruba (native), French (beginner)
 
 ## HONORS & AWARDS
 
-* 2015 Capstone Scholarship Recipient, Howard Univeristy
-* 2018 Brenda Lawson Scholarship Recipient, Howard Univeristy
-* 2015 Grief Scholarship Recipient, Howard University
+* 2018 Brenda Lawson Scholarship Recipient
+* 2015 Howard Univeristy Capstone Scholarship Recipient
+* 2015 Grief Scholarship Recipient
 
 <br>
 
